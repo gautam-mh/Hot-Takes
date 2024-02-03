@@ -1,3 +1,27 @@
+# Application Snapshots
+
+## Login Page
+<p align="center">
+  <img src="https://github.com/smartinternz02/SI-GuidedProject-587516-1696942871/assets/67387311/795fd929-caa2-4b1f-989b-d95f4747122c" />
+</p>
+
+## Sign Up Page
+<p align="center">
+  <img src="https://github.com/smartinternz02/SI-GuidedProject-587516-1696942871/assets/67387311/0b5a27a6-60d2-4a96-806c-aabd8f4b558e" />
+</p>
+
+## List of News Page
+<p align="center">
+  <img src="https://github.com/smartinternz02/SI-GuidedProject-587516-1696942871/assets/67387311/f259a9c8-7064-4f08-81ed-a7aafac41bb6" />
+</p>
+
+## News Article Page
+<p align="center">
+  <img src="https://github.com/smartinternz02/SI-GuidedProject-587516-1696942871/assets/67387311/85a58999-7dea-4de3-8d22-6d79beba3c3d" />
+</p>
+
+---
+
 # For Development
 
 To contribute to this project, follow these steps:
